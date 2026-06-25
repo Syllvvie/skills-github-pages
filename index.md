@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog!
+---
 
 ### Daily Productivity Plan
 
@@ -22,4 +23,3 @@ title: Welcome to my blog!
 - [ ] Reply to important emails
 - [ ] Schedule team meeting
 - [ ] Review the latest report
----
